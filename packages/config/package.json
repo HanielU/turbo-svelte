@@ -1,0 +1,27 @@
+{
+  "name": "@packages/config",
+  "version": "0.0.1",
+  "author": "",
+  "description": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.ts",
+  "type": "module",
+  "module": "index.ts",
+  "svelte": "index.ts",
+  "scripts": {},
+  "exports": {
+    ".": {
+      "import": "./index"
+    }
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "1.0.0-next.89",
+    "@sveltejs/kit": "1.0.0-next.561",
+    "@sveltejs/package": "1.0.0-next.6",
+    "svelte-preprocess": "^4.10.6",
+    "tsup": "^6.5.0",
+    "unocss": "^0.46.5",
+    "vite": "^3.1.6"
+  }
+}

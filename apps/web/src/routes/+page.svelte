@@ -1,8 +1,9 @@
 <script lang="ts">
-  import { MyCounterButton } from 'ui';
+  import 'uno.css';
+  import { Button } from 'ui';
 </script>
 
 <h1>Web</h1>
-<MyCounterButton />
+<Button>Nigger</Button>
 
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>

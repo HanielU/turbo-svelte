@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "lib": ["esnext", "DOM", "DOM.Iterable"],
+    "moduleResolution": "node",
+    "module": "esnext",
+    "target": "esnext"
+  }
+}
